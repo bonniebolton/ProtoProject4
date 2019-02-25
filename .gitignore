@@ -80,3 +80,8 @@ DerivedDataCache/*
 ######################
 .DS_Store
 .DS-Store?
+firstperson/Intermediate/CachedAssetRegistry.bin
+firstperson/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+firstperson/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+firstperson/Saved/Autosaves/PackageRestoreData.json
+firstperson/Saved/AutoScreenshot.png
