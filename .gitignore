@@ -85,3 +85,5 @@ firstperson/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSetti
 firstperson/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
 firstperson/Saved/Autosaves/PackageRestoreData.json
 firstperson/Saved/AutoScreenshot.png
+*.bin
+*.json
