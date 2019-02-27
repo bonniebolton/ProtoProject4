@@ -87,3 +87,5 @@ firstperson/Saved/Autosaves/PackageRestoreData.json
 firstperson/Saved/AutoScreenshot.png
 *.bin
 *.json
+*.bin
+*.json
